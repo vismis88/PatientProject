@@ -1,0 +1,322 @@
+{
+	"Helth": {
+	
+		"Patient": [
+	
+			{
+				"PatientSrNum":"1GJKJF",
+				"PatientDob":"14/05/1993",
+				"PatientName":"Matthew Douglass",
+				"PatientDisease":"Viral Fever",
+				"PatientAge":"35",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Bhatra",
+				"PatientAppointmentDate":"10/07/2018",
+				"PatientWardDetails":"Facture Department",
+				"PatientBedNum":"10",
+				"PatientImage":""
+			},
+
+			{
+				"PatientSrNum":"2HKGHL",                                            
+				"PatientDob":"18/03/1993",
+				"PatientName":"Candace McNaughton",
+				"PatientDisease":"Yellow Fever",
+				"PatientAge":"25",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Sharma",
+				"PatientAppointmentDate":"26/11/2018",
+				"PatientWardDetails":"ENT",
+				"PatientBedNum":"60",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"3JHGFD",
+				"PatientDob":"21/09/1987",
+				"PatientName":"Janny Douglass",
+				"PatientDisease":"Back Pain",
+				"PatientAge":"31",
+				"PatientGender":"Female",
+				"PatientDoctorName":"Dr Docasi",
+				"PatientAppointmentDate":"05/08/2018",
+				"PatientWardDetails":"Pathology",
+				"PatientBedNum":"18",
+				"PatientImage":""
+			},
+	 
+			{
+				"PatientSrNum":"4LJGFD",
+				"PatientDob":"11/11/1982",
+				"PatientName":"Lazaro Zayas",
+				"PatientDisease":"Blood Clotting",
+				"PatientAge":"36",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Gangster",
+				"PatientAppointmentDate":"31/06/2018",
+				"PatientWardDetails":"Astrology",
+				"PatientBedNum":"22",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"5POIUY",
+				"PatientDob":"31/10/1992",
+				"PatientName":"Mariam Salahou",
+				"PatientDisease":"Frozen Shoulder",
+				"PatientAge":"26",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Gangadhar",
+				"PatientAppointmentDate":"13/09/2018",
+				"PatientWardDetails":"Emergency",
+				"PatientBedNum":"19",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"6RTFGD",
+				"PatientDob":"14/07/1991",
+				"PatientName":"William Gilmer",
+				"PatientDisease":"Fever",
+				"PatientAge":"27",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Chandni",
+				"PatientAppointmentDate":"15/04/2018",
+				"PatientWardDetails":"Coronary Care",
+				"PatientBedNum":"11",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"7HGFDS",
+				"PatientDob":"24/03/1989",
+				"PatientName":"Aaron Hank",
+				"PatientDisease":"Chikungunya",
+				"PatientAge":"29",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Batti",
+				"PatientAppointmentDate":"20/09/2018",
+				"PatientWardDetails":"Burn Centre",
+				"PatientBedNum":"9",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"8LKJHG",
+				"PatientDob":"20/08/1990",
+				"PatientName":"Abagnale Frank",
+				"PatientDisease":"Toothache",
+				"PatientAge":"28",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Bhakri",
+				"PatientAppointmentDate":"16/10/2018",
+				"PatientWardDetails":"Pediatric intensive",
+				"PatientBedNum":"12",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"9LKJHG",
+				"PatientDob":"30/10/1988",
+				"PatientName":"Abbey Edward",
+				"PatientDisease":"Pimples",
+				"PatientAge":"30",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Chandu",
+				"PatientAppointmentDate":"21/11/2018",
+				"PatientWardDetails":"Neonatal intensive",
+				"PatientBedNum":"7",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"10BNMBV",
+				"PatientDob":"16/12/1987",
+				"PatientName":"Abel Reuben",
+				"PatientDisease":"Stomach Ache",
+				"PatientAge":"31",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Harry Poter",
+				"PatientAppointmentDate":"22/09/2018",
+				"PatientWardDetails":"Endoscopy Unit",
+				"PatientBedNum":"15",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"11UYTRF",
+				"PatientDob":"12/04/1986",
+				"PatientName":"Abelson Hal",
+				"PatientDisease":"Eye Infection",
+				"PatientAge":"32",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr zara",
+				"PatientAppointmentDate":"19/10/2018",
+				"PatientWardDetails":"On-Call Room",
+				"PatientBedNum":"2",
+				"PatientImage":""
+			},
+	  
+			{
+				"PatientSrNum":"12JHGBV",
+				"PatientDob":"09/02/1986",
+				"PatientName":"Abourezk James",
+				"PatientDisease":"Lethargy",
+				"PatientAge":"32",
+				"PatientGender":"Male",
+				"PatientDoctorName":"Dr Pote",
+				"PatientAppointmentDate":"22/05/2018",
+				"PatientWardDetails":"Acute Medical Unit",
+				"PatientBedNum":"1",
+				"PatientImage":""
+			},
+	 
+			{
+				"PatientSrNum":"13BNHGF",
+				"PatientDob":"20/11/1985",
+				"PatientName":"Liza Creighton",
+				"PatientDisease":"Goiter",
+				"PatientAge":"33",
+				"PatientGender":"Female",
+				"PatientDoctorName":"Dr Metkri",
+				"PatientAppointmentDate":"23/04/2018",
+				"PatientWardDetails":"Physical Theory",
+				"PatientBedNum":"3",
+				"PatientImage":""
+			}	
+		] ,
+	
+	"Report": [
+	
+			{
+				"Hemoglobin":"1g/dl(11.00-14.00)",
+				"TotalLeukocyteCount":"1K/ul(5.0-15.0)",
+				"RedloodCell":"110*12/L(4.00-5.20)",
+				"PVC":"1%(34.0-40.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(80-100)",
+				"PlateletCount":"1K/uL(200-490)",
+				"RDW":"1%(11.00-15.00)"
+			},	
+			
+			{
+				"Hemoglobin":"1g/dl(12.00-14.00)",
+				"TotalLeukocyteCount":"1K/ul(4.0-15.0)",
+				"RedloodCell":"110*12/L(4.00-4.20)",
+				"PVC":"1%(32.0-40.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(60-100)",
+				"PlateletCount":"1K/uL(100-490)",
+				"RDW":"1%(11.60-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(13.00-14.00)",
+				"TotalLeukocyteCount":"1K/ul(6.0-15.0)",
+				"RedloodCell":"110*12/L(3.00-5.20)",
+				"PVC":"1%(33.0-38.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(90-100)",
+				"PlateletCount":"1K/uL(160-490)",
+				"RDW":"1%(12.10-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(10.00-14.00)",
+				"TotalLeukocyteCount":"1K/ul(5.0-15.0)",
+				"RedloodCell":"110*12/L(4.00-5.20)",
+				"PVC":"1%(34.0-40.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(70-100)",
+				"PlateletCount":"1K/uL(180-490)",
+				"RDW":"1%(11.00-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(14.00-15.00)",
+				"TotalLeukocyteCount":"1K/ul(3.0-15.0)",
+				"RedloodCell":"110*12/L(4.20-5.20)",
+				"PVC":"1%(34.0-34.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(65-100)",
+				"PlateletCount":"1K/uL(230-490)",
+				"RDW":"1%(12.30-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(11.00-16.00)",
+				"TotalLeukocyteCount":"1K/ul(5.0-14.0)",
+				"RedloodCell":"110*12/L(5.00-6.20)",
+				"PVC":"1%(32.0-50.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(75-100)",
+				"PlateletCount":"1K/uL(190-490)",
+				"RDW":"1%(13.10-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(11.00-18.00)",
+				"TotalLeukocyteCount":"1K/ul(6.0-15.0)",
+				"RedloodCell":"110*12/L(4.00-6.20)",
+				"PVC":"1%(34.0-50.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(88-100)",
+				"PlateletCount":"1K/uL(170-490)",
+				"RDW":"1%(14.00-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(11.00-14.00)",
+				"TotalLeukocyteCount":"1K/ul(5.0-15.0)",
+				"RedloodCell":"110*12/L(4.00-5.20)",
+				"PVC":"1%(34.0-40.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(80-100)",
+				"PlateletCount":"1K/uL(200-490)",
+				"RDW":"1%(11.00-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(12.00-14.00)",
+				"TotalLeukocyteCount":"1K/ul(4.0-15.0)",
+				"RedloodCell":"110*12/L(4.00-4.20)",
+				"PVC":"1%(32.0-40.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(60-100)",
+				"PlateletCount":"1K/uL(100-490)",
+				"RDW":"1%(11.60-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(13.00-14.00)",
+				"TotalLeukocyteCount":"1K/ul(6.0-15.0)",
+				"RedloodCell":"110*12/L(3.00-5.20)",
+				"PVC":"1%(33.0-38.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(90-100)",
+				"PlateletCount":"1K/uL(160-490)",
+				"RDW":"1%(12.10-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(10.00-14.00)",
+				"TotalLeukocyteCount":"1K/ul(5.0-15.0)",
+				"RedloodCell":"110*12/L(4.00-5.20)",
+				"PVC":"1%(34.0-40.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(70-100)",
+				"PlateletCount":"1K/uL(160-490)",
+				"RDW":"1%(11.00-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(14.00-15.00)",
+				"TotalLeukocyteCount":"1K/ul(3.0-15.0)",
+				"RedloodCell":"110*12/L(4.20-5.20)",
+				"PVC":"1%(34.0-34.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(65-100)",
+				"PlateletCount":"1K/uL(230-490)",
+				"RDW":"1%(12.30-15.00)"
+			},
+			
+			{
+				"Hemoglobin":"1g/dl(11.00-16.00)",
+				"TotalLeukocyteCount":"1K/ul(5.0-14.0)",
+				"RedloodCell":"110*12/L(5.00-6.20)",
+				"PVC":"1%(32.0-50.0)",
+				"MeanCorpusculuvarHemoglobin":"1fl(75-100)",
+				"PlateletCount":"1K/uL(190-490)",
+				"RDW":"1%(13.10-15.00)"
+			}
+		]
+	}
+}
